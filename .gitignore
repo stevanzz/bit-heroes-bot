@@ -23,9 +23,11 @@ wheels/
 pip-wheel-metadata/
 share/python-wheels/
 *.egg-info/
+pyvenv.cfg
 .installed.cfg
 *.egg
 MANIFEST
+Scripts/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
